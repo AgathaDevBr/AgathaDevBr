@@ -1,4 +1,5 @@
 Olá 👋, eu sou a Ágatha Santos! ✨ Bem-vindo ao meu perfil no GitHub! ✨
+
 🚀 Sobre Mim
 Sou Tecnóloga em Análise e Desenvolvimento de Sistemas com 2 anos de experiência profissional em desenvolvimento web. Tenho especialização em ASP.NET Core MVC, frameworks de APIs e Angular. Minha paixão por tecnologia me motiva a aprender continuamente e aprimorar minhas habilidades em padrões de design, serviços RESTful e autenticação segura.
 
