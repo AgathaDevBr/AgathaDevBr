@@ -1,20 +1,23 @@
-Hi 👋, I'm Ágatha Santos!
-✨ Welcome to my GitHub profile! ✨
+Hi 👋, I'm Ágatha Santos! ✨ Welcome to my GitHub profile! ✨
+🚀 About Me
+I'm a Technologist in Analysis and Development of Systems with 2 years of professional experience in web development. I specialize in ASP.NET Core MVC, API frameworks, and Angular. My passion for technology drives me to continuously learn and improve my skills in design patterns, RESTful services, and secure authentication.
 
-😄 A graduate with a Bachelor's degree in Analisys of System.
-🔭 I’m currently working on various projects involving ASP.NET Core MVC and API frameworks.
-🌱 I’m continuously learning and improving my skills in design patterns, RESTful services, and secure authentication.
-👯 I’m looking to collaborate on challenging projects that push the boundaries of web development.
-💬 Ask me about anything related to C#, SQL Server, HTML, CSS, Angular, and more!
-⚡ Fun fact: I thrive on solving complex problems and love staying updated with the latest tech trends.
-Skills
+🌱 What I'm Working On
+Currently, I’m working on several projects using ASP.NET Core, focusing on backend development and API integration. I also enjoy front-end development with Angular and Vue.js, ensuring a seamless and modern user experience. I’m always exploring new tools and frameworks to enhance my development process.
+
+🔧 Technologies & Skills
+
 Languages: C#, SQL, HTML, CSS, JavaScript
 Frameworks & Libraries: ASP.NET Core, Angular, Vue.js
 Tools & Platforms: SQL Server, Git, Visual Studio, MongoDB
-Principles & Practices: SOLID, TDD, DDD, RESTful Services, Secure Authentication, ORMs, Dapper
-Contact Me
-Feel free to reach out if you want to discuss technology, collaboration, or just say hi!
+Principles & Practices: SOLID, TDD, DDD, RESTful Services, Secure Authentication, ORMs (Dapper)
+🔍 What I’m Looking For
+I’m passionate about collaborating on challenging projects that push the boundaries of web development. I’m open to new opportunities where I can contribute my knowledge of C#, SQL Server, Angular, and more. If you're looking for someone who thrives in solving complex problems and staying updated with the latest tech trends, feel free to reach out!
+
+💬 Let’s Connect!
+I’m always happy to chat about technology, coding, or collaboration. Let’s discuss how we can work together on exciting projects!
 
 📧 Email: [agathasantos.dev@gmail.com]
 💼 LinkedIn: [www.linkedin.com/in/agatha-dev]
+
 Thanks for stopping by, and happy coding! 😊
