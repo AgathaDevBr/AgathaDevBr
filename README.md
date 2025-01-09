@@ -14,7 +14,7 @@ Principles & Practices: SOLID, TDD, DDD, RESTful Services, Secure Authentication
 🔍 What I’m Looking For
 I’m passionate about collaborating on challenging projects that push the boundaries of web development. I’m open to new opportunities where I can contribute my knowledge of C#, SQL Server, Angular, and more. If you're looking for someone who thrives in solving complex problems and staying updated with the latest tech trends, feel free to reach out!
 
-<img src="https://github-readme-stats.vercel.app/api?username=techytushar&show_icons=true&theme=radical&include_all_commits=true">|<a href="https://stackoverflow.com/users/story/5679285"><img src="https://github-readme-stackoverflow.vercel.app/?userID=5679285&theme=dark" height="250"></a>
+<img src="https://github-readme-stats.vercel.app/api?username=AgathaDevBr&show_icons=true&theme=radical&include_all_commits=true">
 |--|--|
 
 <br>
