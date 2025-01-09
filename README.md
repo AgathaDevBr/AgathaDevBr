@@ -1,7 +1,7 @@
 Hi 👋, I'm Ágatha Santos!
 ✨ Welcome to my GitHub profile! ✨
 
-😄 A graduate with a Bachelor's degree in Computers and Information, Bioinformatics Department, class of 2023, With GPA 3.58.
+😄 A graduate with a Bachelor's degree in Analisys of System.
 🔭 I’m currently working on various projects involving ASP.NET Core MVC and API frameworks.
 🌱 I’m continuously learning and improving my skills in design patterns, RESTful services, and secure authentication.
 👯 I’m looking to collaborate on challenging projects that push the boundaries of web development.
